@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi I'm Ida 👋
 
 <!--
-**Ida-Naliaka/Ida-Naliaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧍‍♀️ I am a self-taught full stack web deveoper.
 
-Here are some ideas to get you started:
+💻 Some technologies I enjoy working with include: javasript, html, css, reactjs, php and nodejs.
+    I particulartly like working with MERN and LAMP stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👯 I recently got started with contributing to open source projects, which I enjoy.
+
+🌱 I am intentional about learning new skills and technologies.
+
+📫 Reach me on LinkedIn at https://www.linkedin.com/in/ida-naliaka-wafula12
+📧 Email me at wafulaida@gmail.com
+
+** Thanks for dropping by!👋 **
 -->
