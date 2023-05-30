@@ -2,7 +2,7 @@
 
 #### About me
 
-🧍‍♀️ I am a self-taught full stack web deveoper.
+🧍‍♀️ I am a self-taught full stack web developer.
 
 💻 Some technologies I enjoy working with include: javasript, html, css, reactjs, php and nodejs.
     I particulartly like working with MERN and LAMP stack.
