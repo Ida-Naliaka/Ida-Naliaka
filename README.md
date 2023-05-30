@@ -14,4 +14,4 @@
 📫 Reach me on LinkedIn at [https://www.linkedin.com/in/ida-naliaka-wafula12]
 📧 Email me at wafulaida@gmail.com
 
-** Thanks for dropping by!👋 **
+**Thanks for dropping by!👋**
